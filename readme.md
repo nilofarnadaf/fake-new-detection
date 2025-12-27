@@ -30,12 +30,14 @@ based on their textual content.
 
 ## 📊 Dataset
 - **WELFake Dataset**
-- Contains labeled real and fake news articles
-- Label format:
-  - `0` → Real News
-  - `1` → Fake News
+- Source: Kaggle
+- Link: https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
 
-> Dataset is widely used for academic fake-news detection experiments.
+Label format:
+- `0` → Real News
+- `1` → Fake News
+
+> The dataset is not included in this repository due to file size constraints.
 
 ---
 
