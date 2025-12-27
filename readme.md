@@ -103,6 +103,7 @@ streamlit run app.py
 
 This model provides probabilistic predictions and should not be treated as
 a definitive source for verifying news authenticity.
+
 ---
 ## 🚀 Future Improvements
 
@@ -113,6 +114,7 @@ Add model comparison dashboard
 Deploy as a web API
 
 Improve real-time news scraping
+
 ---
 ## 👩‍💻 Author
 
